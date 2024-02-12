@@ -3,3 +3,6 @@ node_modules/
 
 # SSL/TLS key and certificate files
 /ssl/*
+*.key
+*.cert
+*.csr
